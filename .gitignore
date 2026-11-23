@@ -1,0 +1,17 @@
+# Compiled & Build Artifacts
+target/
+build/
+dist/
+node_modules/
+
+# Environment & Local Secrets
+.env
+*.local
+application-local.properties
+application-local.yml
+
+# IDE & OS Files
+.idea/
+.vscode/
+*.iml
+.DS_Store
